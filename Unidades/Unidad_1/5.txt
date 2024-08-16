@@ -1,0 +1,33 @@
+Se te encargó definir qué datos son necesarios para el registro de estudiantes en un curso de
+inglés. ¿Qué datos crees que deberían ser obligatorios y cuáles opcionales? ¿Y si el curso es
+de cocina?
+
+Respusta:
+A.Curso de Ingles
+Datos obligatorios:
+1.Nombren/s y apellido/s
+2.Dni
+3.Fecha de nacimiento
+4.Numero de telefono
+5.Email
+6.Conocimiento previo de ingles/nivel
+7.Horarios en el cual uno quiere cursar
+Datos opcionales:
+1.Direccion de la vivienda
+2.Numero de telefono/email de emergencia
+3.Nombre de parientes
+
+B.Curso de Cocina
+Datos obligatorios:
+1.Nombren/s y apellido/s
+2.Dni
+3.Fecha de nacimiento
+4.Numero de telefono
+5.Email
+6.Conocimiento previo de ingles/nivel
+7.Horarios en el cual uno quiere cursar
+8.Alergias presentes
+Datos opcionales:
+1.Direccion de la vivienda
+2.Numero de telefono/email de emergencia
+3.Nombre de parientes
