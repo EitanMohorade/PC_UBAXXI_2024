@@ -206,6 +206,7 @@ Ejemplo de Ejecución:
     Operador (+ - * / // %): %
 ```
 
+
 ## Implementación con Funciones
 
 Ahora, reescribiremos la versión anterior del programa utilizando funciones para encapsular la lógica de cálculo. Esto mejora la organización del código y lo hace más modular y reutilizable.
