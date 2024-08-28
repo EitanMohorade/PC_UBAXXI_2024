@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio tiene los ejercicios resueltos de Pensamiento Computacional (PC) de UBA XXI 2024. Espero que sirva para que discutamos sobre la resolucion de ejercicios y nos ayudemos mutuamente.
+Este repositorio tiene los ejercicios resueltos de Pensamiento Computacional (PC) de UBA XXI 2024 Segundo cuatrimestre. Espero que sirva para que discutamos sobre la resolucion de ejercicios y nos ayudemos mutuamente.
 
 ## Contenidos
 
@@ -14,29 +14,29 @@ Aca abajo tienen el drive con todo el contenido necesario (el cual no cree yo) p
 
 El repositorio lo dividi en las unidades las cuales toca diferentes temas (tocando la unidad te va a redirigir a la carpeta correspondiente):
 
-### [Unidad 1](Unidades/Unidad_1/): Introducción a la algoritmia y a la programación
+### [Unidad 1](Unidades/Unidad_1/): Introducción a la algoritmia y a la programación: primer parcial
 
 - Conceptos básicos de algoritmos y programas.
 - Introducción al lenguaje de programación Python.
 
-### [Unidad 2](Unidades/Unidad_2/): Tipos de datos, expresiones y funciones
+### [Unidad 2](Unidades/Unidad_2/): Tipos de datos, expresiones y funciones: primer parcial
 
 - Tipos de datos simples y operaciones.
 - Creación y uso de funciones en Python.
 
-### [Unidad 3](Unidades/Unidad_3/): Estructuras de control
+### [Unidad 3](Unidades/Unidad_3/): Estructuras de control: primer parcial
 
 - Condicionales e iteraciones.
 
-### [Unidad 4](Unidades/Unidad_4/): Tipos de datos estructurados
+### [Unidad 4](Unidades/Unidad_4/): Tipos de datos estructurados: primer parcial y segundo
 
 - Listas, tuplas y diccionarios.
 
-### [Unidad 5](Unidades/Unidad_5/): Entrada y salida de información
+### [Unidad 5](Unidades/Unidad_5/): Entrada y salida de información: segundo parcial
 
 - Manejo de archivos y gestión de errores.
 
-### [Unidad 6](Unidades/Unidad_6/): Bibliotecas
+### [Unidad 6](Unidades/Unidad_6/): Bibliotecas: segundo parcial
 
 - Uso de bibliotecas como Pandas y Matplotlib para análisis de datos y visualización.
 
