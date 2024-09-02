@@ -13,3 +13,13 @@ País: Japón
 Capital: Tokio
 Continente: Asia
 '''
+francia = ("Francia", "París", "Europa")
+argentina = ("Argentina", "Buenos Aires", "América del Sur")
+japon = ("Japón", "Tokio", "Asia")
+alemania = ("Alemania", "Berlín", "Europa")
+peru = ("Perú", "Lima", "América del Sur")
+paises = [francia, argentina, japon, alemania, peru]
+def datos_de_pais(lista_paises):
+    for pais in lista_paises:
+        print(f"Pais: {pais[0]}\nCapital: {pais[1]}\nContinente: {pais[2]}\n")
+datos_de_pais(paises)

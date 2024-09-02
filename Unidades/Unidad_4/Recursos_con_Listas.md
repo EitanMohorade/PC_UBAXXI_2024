@@ -25,11 +25,10 @@ En Python, podemos ordenar listas y otras secuencias utilizando dos enfoques pri
 - **`sort()`**: Ordena la lista sobre la que se aplica y no devuelve nada (modifica la lista original).
 
   ```python
-  lista = [4, 1, 2, 7]
-  lista.sort()
-  # lista queda: [1, 2, 4, 7]
-
-```
+    lista = [4, 1, 2, 7]
+    lista.sort()
+    # lista queda: [1, 2, 4, 7]
+    ```
 
 - sorted(): Devuelve una nueva lista ordenada, sin modificar la original (se puede usar con cualquier secuencia).
 
