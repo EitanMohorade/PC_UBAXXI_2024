@@ -7,3 +7,11 @@ por parámetro.
 Las tuplas son inmutables, entonces ¿Cómo podemos hacer para “eliminar” un elemento de una tupla?
 Recordemos que las tuplas tienen definido el operador +, pero no el operador -.
 '''
+
+def fun(lista,num):
+    if num in range(0,9,2):
+        resultado=lista[num//2].upper()
+    else:
+        resultado='Indefinido'
+    return resultado
+print(fun(['cero','dos','cuatro','seis','ocho'], 4))
